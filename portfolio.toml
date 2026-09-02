@@ -1,0 +1,54 @@
+# 工具下载配置（由上传脚本自动生成，请勿手动修改）
+download_type = "release"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/test_src_updown_full.zip"
+program_download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/test_src_updown_src.zip"
+
+[[files]]
+name = "README.md"
+path = "README.md"
+asset_name = "README.md"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/README.md"
+size = 414
+
+[[files]]
+name = "portfolio.toml"
+path = "src/portfolio.toml"
+asset_name = "portfolio.toml"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/portfolio.toml"
+size = 734
+
+[[files]]
+name = "0c7e52c01d472d1b276e342ba170fec.jpg"
+path = "images/0c7e52c01d472d1b276e342ba170fec.jpg"
+asset_name = "0c7e52c01d472d1b276e342ba170fec.jpg"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/0c7e52c01d472d1b276e342ba170fec.jpg"
+size = 183857
+
+[[files]]
+name = "20260831135524.jpg"
+path = "images/20260831135524.jpg"
+asset_name = "20260831135524.jpg"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/20260831135524.jpg"
+size = 217095
+
+[[files]]
+name = "aHA小助_原型.py"
+path = "src/aHA小助_原型.py"
+asset_name = "aHA_.py"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/aHA_.py"
+size = 73849
+
+[[files]]
+name = "codeworkshp.pyw"
+path = "src/codeworkshp.pyw"
+asset_name = "codeworkshp.pyw"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/codeworkshp.pyw"
+size = 48529
+
+[[files]]
+name = "deepseek_python_20260804_895355.py"
+path = "src/deepseek_python_20260804_895355.py"
+asset_name = "deepseek_python_20260804_895355.py"
+download_url = "https://github.com/TAXLY-WorkTools/test_src_updown/releases/download/v1.0.0/deepseek_python_20260804_895355.py"
+size = 36285
+
